@@ -39,7 +39,7 @@ avatar: ""
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: 
-  email: ""
+  email: 
   facebook: yourname  # eg. daattali
   telephone: yourphone   # eg. +14159998888
 
